@@ -2,10 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Mentoring
 
-Organize your courses by years, topics, or universities, however you like!
+* Mozes Jacobs, Junior, UW CSE
+  * Project: predictive coding for learning hierarchical temporal representation
+* Luciano de la Iglesia, BS. & MS., UW CSE
+  * Project: neural co-processors for bi-directional brain-computer interfaces
+  * Now: Data Scientist @ Microsoft, [OpenTug](https://opentug.com/)
+
+### Teaching Assistant
+* CSE 160 (Winter 2020 & Spring 2018): Data Programming
+* CSE 332 (Autumn 2019 & Autumn 2018): Data Structures & Parallelism
