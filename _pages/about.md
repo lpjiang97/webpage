@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Linxing (Preston) Jiang (姜麟星, jiāng línxīng). I’m a first-year PhD student in Computer Science at the University of Washington. My advisor is [Rajesh Rao](https://www.rajeshpnrao.com/). I received my BS and MS degree in computer science, both from the University of Washington. I'm from [Harbin, China](https://en.wikipedia.org/wiki/Harbin).
+My name is Linxing (Preston) Jiang (姜麟星, jiāng línxīng). I’m a second-year PhD student in Computer Science at the University of Washington. My advisor is [Rajesh Rao](https://www.rajeshpnrao.com/). I received my BS and MS degree in computer science, both from the University of Washington. I'm from [Harbin, China](https://en.wikipedia.org/wiki/Harbin).
 
 I'm interested in developing theories in neuroscience from the principles of Bayesian inference and generative models. Currently, I'm focusing on predictive coding theories to explain spatiotemporal feature learning of the visual cortex. My ultimate goal is to provide functional explanations for various brain functions such as perception, decision making, and memory through the lens of internal (generative) model building. 
 
