@@ -15,5 +15,6 @@ nav: true
   * Now: Data Scientist @ Microsoft & Head of Engineering @ [OpenTug](https://opentug.com/)
 
 ### Teaching Assistant
+* CSE 481A (Spring 2022): Neural Engineering
 * CSE 160 (Winter 2020 & Spring 2018): Data Programming
 * CSE 332 (Autumn 2019 & Autumn 2018): Data Structures & Parallelism
