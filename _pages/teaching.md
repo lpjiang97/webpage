@@ -8,9 +8,10 @@ nav: true
 
 ### Mentoring
 
-* Mozes Jacobs, Junior, UW CSE
+* Mozes Jacobs, B.S., UW CSE
   * Project: predictive coding for learning hierarchical temporal representation
-* [Luciano de la Iglesia](https://www.linkedin.com/in/dluciano/), BS. & MS., UW CSE
+  * Now: Research Associate @ [Allen Institute for Brain Science](https://alleninstitute.org/)
+* [Luciano de la Iglesia](https://www.linkedin.com/in/dluciano/), B.S. & M.S., UW CSE
   * Project: neural co-processors for bi-directional brain-computer interfaces
   * Now: Data Scientist @ Microsoft & Head of Engineering @ [OpenTug](https://opentug.com/)
 
