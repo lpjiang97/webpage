@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-02-10 15:59:00-0400
+date: 2022-05-20 
 inline: true
 ---
 
-I will be presenting _Dynamic Predictive Coding with Hypernetworks_ at Cosyne 2021! Come check out our poster at **2-067**!
+I will be presenting our paper _Learning Hierarchical Temporal Representations via Dynamic Predictive Coding_ at the 2022 CVPR NeuroVision Workshop!
