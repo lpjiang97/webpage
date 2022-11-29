@@ -21,4 +21,4 @@ My name is Linxing (Preston) Jiang (姜麟星, jiāng línxīng). I’m a third-
 
 I'm interested in developing theories in neuroscience from the principles of Bayesian inference and generative models. Currently, I'm focusing on predictive coding theories to explain spatiotemporal feature learning of the visual cortex. I also collaborate with [Nick Steinmetz](http://www.nicksteinmetz.com) on analyzing Neuropixel data for verifying predictive coding. My ultimate goal is to provide functional explanations for various brain functions such as perception, decision making, and memory through the lens of internal (generative) model building. 
 
-I'm a memebr of the [Neural Systems Lab](https://neural.cs.washington.edu/) and [Center for Neurotechnology](https://centerforneurotech.uw.edu/) at UW CSE. Please feel free to reach out if you are interested in joining the lab for research opportunities!
+I'm a member of the [Neural Systems Lab](https://neural.cs.washington.edu/) and [Center for Neurotechnology](https://centerforneurotech.uw.edu/) at UW CSE. Please feel free to reach out if you are interested in joining the lab for research opportunities!
