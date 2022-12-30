@@ -1,7 +1,11 @@
 ---
 layout: post
-date: 2022-06-27
+date: 2022-10-05
 inline: true
 ---
 
-New preprint out in bioRxiv! [Dynamic Predictive Coding: A New Model of Hierarchical Sequence Learning and Prediction in the Cortex](https://www.biorxiv.org/content/10.1101/2022.06.23.497415v1)
+Two abstracts accepted at SfN 2022: 
+- _Dynamic and Active Predictive Coding: New Approaches to Understanding Cortical Functions_
+- _Stimulus-specific Omission Responses in Mouse Primary Visual Cortex_
+
+See you in San Diego! 
