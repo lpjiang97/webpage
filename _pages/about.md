@@ -1,14 +1,14 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: Ph.D. student at <a href="https://neural.cs.washington.edu/">Neural Systems Lab</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   address: >
-    <p>Paul G. Allen Center, Office 374</p>
+    <p>CSE 374, Paul G. Allen Center</p>
     <p>University of Washington</p>
     <p>Seattle, WA 98195</p>
 
